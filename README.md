@@ -5,10 +5,10 @@
 
 You have been given a schema file and a seed file that will be used to build a real estate database. The database will have four tables:
 
-# buildings
-# apartments
-# tenants
-# doormen 
+buildings
+apartments
+tenants
+doormen 
 
 representing some of the apartment buildings on Gersh.com. Before getting started, take some time to go through the schema file to understand what fields, data types each table requires and how the tables are related. This is important!
 
@@ -40,4 +40,5 @@ Create one new tenant, put them in any apartment you want
 Find just the ids for all apartments for building with id of 2
 Find all info for apartments in building number 3 whose price is greater than $2300
 Geriatric Birthday! Update all tenants whose age is 90 to be 91
-# NOTE: The real_estate_queries.sql file already has the questions inside (commented out) with a line for you to write your queries.
+
+NOTE: The real_estate_queries.sql file already has the questions inside (commented out) with a line for you to write your queries.
